@@ -7,3 +7,4 @@ Framendakóði vefsíðunnar er opinn uppspretta, velkomið að hjálpa til við
 * [framenda kóða](https://github.com/xxai-art/web)
 * [Tungumálapakkar fyrir síðuna í heild sinni](https://github.com/xxai-art/web/tree/main/i18n)
 * [Tungumálapakkar fyrir innskráningareiningar](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Heimasíða Fjöltyng skjöl](https://github.com/xxai-doc)
