@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , bættu við nokkrum eiginleikum á grundvelli coffeescript setningafræði, sjá [coffee_plus](./coffee_plus.md) .
 
-* lýsa breytu
+## lýsa breytu
 
 ```
 + var1, var2
 ```
 
-* yfirlýsingu merki
+## yfirlýsingu merki
 
 `:$` er til notkunar með [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* fljótur innflutningur
+## fljótur innflutningur
 
 ```
 > zx/globals:
