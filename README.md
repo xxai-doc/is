@@ -17,14 +17,14 @@ Framhlið forritunarmálið er [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plu
 
 Byggðu á eftirfarandi 3 verkefnum
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Markdown sniðmátið, með viðskeytinu `.mdt` , getur átt við ytri skrár með setningafræði svipað og `<+ ./coffee_plus/import.js>` .
+  Viðskeytið er `.mdt` , þú getur notað setningafræði svipað og `<+ ./coffee_plus/import.js>` til að vísa í utanaðkomandi skrár og búið til markdown með viðskeytinu `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown þýðing mun ekki þýða kóða og tengla og geymir þýddar setningar í skyndiminni. Ef þýðingunni er breytt en upprunalega textanum er ekki breytt mun það ekki skrifa yfir breytinguna á þýðingunni að framkvæma hana aftur.
+  Markdown þýðing mun ekki þýða kóða og tengla og geymir þýddar setningar í skyndiminni. Ef þýðingunni er breytt en upprunalega textanum er ekki breytt, mun það ekki skrifa yfir breytinguna á þýðingunni að framkvæma hana aftur.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Tungumálaskrár til að þýða vefsíður sem mynda `yaml` .
+  Tungumálaskrár til að þýða vefsíður sem mynda `yaml` .
